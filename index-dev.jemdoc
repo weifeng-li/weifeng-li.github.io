@@ -12,30 +12,104 @@ Email: weifeng \[dot\] li \[at\] uga \[dot\] edu\n
 #[ Github]\n
 #[ SSRN]
 
-== Bio
-Weifeng Li is an assistant professor in the Department of Management Information Systems at University of Georgia, a faculty member of the Institute for Cybersecurity and Privacy, and a faculty member of the Georgia Informatics Institute. I completed my Ph.D. in the Department of Management Information Systems from the University of Arizona, under the supervision of Hsinchun Chen. Previously, I graduated summa cum laude from Shanghai Jiaotong University in 2012 with a B.S. in Management Information Systems.
+#== Bio
+#Weifeng Li is an assistant professor in the Department of Management Information Systems at University of Georgia, a faculty member of the Institute for Cybersecurity and Privacy, and a faculty member of the Georgia Informatics Institute. I completed my Ph.D. in the Department of Management Information Systems from the University of Arizona, under the supervision of Hsinchun Chen. Previously, I graduated summa cum laude from Shanghai Jiaotong University in 2012 with a B.S. in Management Information Systems.
 
-Research interests:
+#Research interests:
 
-I primarily teach Cyber Threat Intelligence at the undergraduate level (MIST5775) and the graduate level (MIST7775). I also teach a doctoral seminar on Big Data Research Methods (MIST9777).
+#I primarily teach Cyber Threat Intelligence at the undergraduate level (MIST5775) and the graduate level (MIST7775). I also teach a doctoral seminar on Big Data Research Methods (MIST9777).
 
-== Research
+#== Research
 #=== Bayesian Modeling/Topic Modeling?
-=== DarkWeb Social Media Analytics
+#=== DarkWeb Social Media Analytics
 
 == Publications
 === Peer-Reviewed Journal Articles
-=== Refereed Conference Papers
+. Weifeng Li, Junming Yin, and Hsinchun Chen “Supervised Topic Modeling using Hierarchical Dirichlet Process-based Inverse Regression: Experiments on E-Commerce Applications” IEEE Transactions on Knowledge and Data Engineering, Volume 30, Issue 6 (2018): 1192-1205. 
+. Weifeng Li, Hsinchun Chen, and Jay F. Nunamaker Jr. "Identifying and Profiling Key Sellers in Cyber Carding Community: AZSecure Text Mining System." Journal of Management Information Systems 33, no. 4 (2016): 1059-1086. 
+
 === Book Chapter
+. Sagar Samtani, Victor Benjamin, Weifeng Li, and Maggie Abate. “Cybersecurity as an Industry: A Cyber-Threat Intelligence Perspective.” Palgrave Handbook of International Cybercrime and Cyberdeviance. (Accepted in 2019)
+
+=== Refereed Conference Papers
+. "Binary Black-Box Attacks Against Static Malware Detectors with Reinforcement Learning in Discrete Action Spaces" (with M. Ebrahimi, J. Pacheco, W. Li, J. Hu, H. Chen). IEEE Symposium on Security and Privacy (IEEE S&P) Workshop on Deep Learning and Security, San Francisco, May, 2021.
+. “Growing Entrepreneurship with Crypto Tokens” (with W. Chen, K. Xie). International Conference on Information Systems (ICIS 2020), Hyderabad, India, December 13-16, 2020.
+. "Detecting Cyber-Adversarial Videos in Traditional Social Media" (with B. Du, P. Singhal, V. Benjamin). IEEE International Conference on Intelligence and Security Informatics (IEEE ISI 2020). November 9-10, 2020.
+. “A Generative Adversarial Learning Framework for Breaking Text-Based CAPTCHA in the Dark Web” (with N. Zhang, M. Ebrahimi, H. Chen). IEEE International Conference on Intelligence and Security Informatics (IEEE ISI 2020). November 9-10, 2020.
+. “Identifying, Collecting, and Monitoring Personally Identifiable Information: From the Dark Web to the Surface Web” (with F. Lin, Y. Liu, M. Ebrahimi, Z. Ahmad-Post, J. Hu, J. Xin, S. Samtani, H. Chen). IEEE International Conference on Intelligence and Security Informatics (IEEE ISI 2020). November 9-10, 2020.
+. “Linking Personally Identifiable Information from the Dark Web to the Surface Web: A Deep Entity Resolution Approach” (with F. Lin, Y. Liu, M. Ebrahimi, Z. Ahmad-Post, J. Hu, J. Xin, S. Samtani, W. Li, H. Chen). IEEE International Conference on Data Mining (ICDM), Deep Learning for Cyber Threat Intelligence (DL-CTI) Workshop. Sorrento, Italy. November 17 – 20.
+. “Detecting Fake Reviews in the Cold Start Setting: A Deep Generative Topic Modeling Framework” (with Yidong Chai, Bin Zhu, Hongyan Liu). Workshop on Information Technology and Systems (WITS 2019), Munich, Germany, December 18-20, 2019.
+. “Towards Deep Learning Interpretability: A Topic Modeling Approach” (with Yidong Chai). International Conference on Information Systems (ICIS 2019), Munich, Germany, December 15-18, 2019.
+. “Detecting Fake Reviews in the Cold Start Setting with Deep Learning” (with Yidong Chai, Bin Zhu, Hongyan Liu). INFORMS Workshop on Data Science (DS 2019), Seattle, October 19, 2019.
+. “Funding Open Source Software with Cryptocurrency Tokens: The Impact of Exchange Listing on Blockchain Project Development” (with Wei Chen, Karen Xie). Conference on Information Systems and Technology (CIST 2019), Seattle, October 19-20, 2019.
+. “Funding Open Source Software with Cryptocurrency Tokens: The Impact of Exchange Listing on Blockchain Project Development” (with Wei Chen, Karen Xie). The 13th China Summer Workshop on Information Management (CSWIM 2019), Shenzhen, China, June 29-30, 2019.
+. “Identifying Key Data Breach Services with Nonparametric Supervised Topic Model” (with Junming Yin, Hsinchun Chen). Workshop on Information Technology and Systems (WITS 2016), Dublin, Ireland, December 15-16, 2016.
+. “Identifying High Quality Carding Services in Underground Economy using Nonparametric Supervised Topic Model” (with Junming Yin, Hsinchun Chen). International Conference on Information Systems (ICIS 2016), Dublin, Ireland, December 11-14, 2016.
+. “Targeting Key Data Breach Services in Underground Supply Chain” (with Hsinchun Chen). In Proceedings of the IEEE Intelligence and Security Informatics 2016 Conference, Tucson, September 28-30, 2016.
+. “Exploring Key hackers and Cyber Threats in Chinese Hacker Communities” (with Zhen Fang, Xinyi Zhao, Qiang Wei, Guoqing Chen, Yong Zhang, Chunxiao Xing, Hsinchun Chen). In Proceedings of the IEEE Intelligence and Security Informatics 2016 Conference, Tucson, September 28-30, 2016.
+. “Chinese Underground Market Jargon Analysis Based on Unsupervised Learning” (with Kangzhi Zhao, Yong Zhang, Chunxiao Xing, Hsinchun Chen). In Proceedings of the IEEE Intelligence and Security Informatics 2016 Conference, Tucson, September 28-30, 2016.
+. “Exploring Threats and Vulnerabilities in Hacker Web Forums, IRC, and Carding Shops” (with Victor Benjamin, Thomas J. Holt, and Hsinchun Chen). In Proceedings of the IEEE Conference on Intelligence and Security Informatics, Baltimore, May 27-29 2015 [Best paper, runner-up].
+. “Identifying Top Sellers in Underground Economy Using Deep Learning-based Sentiment Analysis” (with Hsinchun Chen). In Proceedings of the IEEE Joint Intelligence and Security Informatics Conference (EISIC 2014), The Hague, Netherlands, September 24-26, 2014.
+. “Descriptive Analytics: Examining Expert Hackers in Web Forums” (with Ahmed Abbasi, Victor Benjamin, Shiyu Hu, Hsinchun Chen). In Proceedings of the IEEE Joint Intelligence and Security Informatics Conference (EISIC 2014), The Hague, Netherlands, September 24-26, 2014.
+. “Modeling Interactions in Web Forums” (with Ahmed Abbasi, Shiyu Hu, Victor Benjamin, Hsinchun Chen). In Proceedings of the 6th ASE International Conference on Social Computing (SocialCom 2014), Stanford, May 27-31, 2014.
 
 == Teaching
+=== University of Georgia
+- MIST 9777: Big Data Research Methods (Doctoral)
+    -- Fall 2018, Fall 2019, Fall 2020
+- MIST 7600: Data Management and Analytics (Graduate)
+    -- Spring 2018, Fall 2021
+- MIST 5775/7775: Cyber Threat Intelligence (Undergraduate\/Graduate)
+    -- Spring 2018 -- Fall 2021
+- MIST 5600: Special Topics in MIS: Cyber Threat Intelligence
+    -- Fall 2017
+
+=== University of Arizona
+- MIS 373: Basic Operations Management (Undergraduate)
+    -- Summer 2014, Summer 2015
 
 == Grants
+. Co-Principal investigator (Co-PI), (with PI, H. Chen), NSF, SaTC Program, “SaTC: CORE: Small: Cybersecurity Big Data Research for Hacker Communities: A Topic and Language Modeling Approach,” $510,624, October 2019-September 2022.
 
-== Awards and Honors
+== Selected Awards and Honors
+- Paul S. and Shirley Goodman Award, 2016
+- Selected participant, International Conference on Information Systems (ICIS) Doctoral Consortium, 2016
+- Selected participant, the Americas Conference on Information Systems (AMCIS) Doctoral Consortium, 2016
+- Selected participant, IEEE Conference on Intelligence and Security Informatics (ISI) Doctoral Consortium, 2016
+- Best paper runner-up, IEEE Conference on Intelligence and Security Informatics (ISI), 2015
 
 == Services
+=== Conference Chair
+- Co-Chair, 2020 IEEE International Conference on Data Mining (ICDM) Workshop on Deep Learning for Cyber Threat Intelligence (DL-CTI) Workshop
+- Publication Co-Chair, 2020 IEEE Intelligence and Security Informatics
+
+=== Session Chair and Program Committee
+- International Conference on Information Systems, 2019 -- Present
+- INFORMS Workshop on Data Science, 2017 -- Present
+- Secure Knowledge Management Conference, 2017
+- INFORMS Annual Meeting, 2016
+
+=== Ad-hoc Reviewer (Journal)
+- Information Systems Research (ISR)
+- Journal of Management Information Systems (JMIS)
+- Management Information Systems Quarterly (MISQ)
+- ACM Transaction on Management Information Systems (ACM TMIS)
+- International Journal of Electronic Commerce (IJEC)
+- Information Systems Frontiers (ISF)
+
+=== Ad-hoc Reviewer (Conference)
+Americas Conference on Information Systems (AMCIS), Hawaii International Conference on System Sciences (HICSS), International Conference on Information Systems (ICIS), Conference on Neural Information Processing Systems (NIPS), Pacific Asia Conference on Information Systems (PACIS), Conference on Uncertainty in Artificial Intelligence (UAI) 
 
 == Employment
+- Assistant Professor, Department of Management Information Systems, University of Georgia, 2017 -- Present
+    -- Affiliated Faculty, Institute for Cybersecurity and Privacy, 2021 -- Present
+    -- Affiliated Faculty, Georgia Informatics Institute, 2018 -- Present
+- Research Associate, Artificial Intelligence Lab, University of Arizona, 2012 -- 2017
+- Software Developer Intern, Analytical Platform and Delivery, eBay Center of Excellence, 2011 -- 2012
 
 == Education
+- Ph.D., Business Administration, University of Arizona, 2017
+    -- /Major/: Management Information Systems
+    -- /Minor/: Statistics, Computational Linguistics
+    -- /Dissertation/: Towards Secure and Trustworthy Cyberspace: Social Media Analytics on Hacker Communities
+- B.S., Management Information Systems, Shanghai Jiao Tong University, 2012
