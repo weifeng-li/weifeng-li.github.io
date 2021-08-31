@@ -1,5 +1,6 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{pubs.html}
 = Publications
+
 == Peer-Reviewed Journal Articles
 . *Weifeng Li*, Junming Yin, and Hsinchun Chen “Supervised Topic Modeling using Hierarchical Dirichlet Process-based Inverse Regression: Experiments on E-Commerce Applications” IEEE Transactions on Knowledge and Data Engineering, Volume 30, Issue 6 (2018): 1192-1205. 
 . *Weifeng Li*, Hsinchun Chen, and Jay F. Nunamaker Jr. "Identifying and Profiling Key Sellers in Cyber Carding Community: AZSecure Text Mining System." Journal of Management Information Systems 33, no. 4 (2016): 1059-1086. 

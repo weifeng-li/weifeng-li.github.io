@@ -1,18 +1,17 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{services.html}
 = Services
 
-== Services
-=== Conference Chair
+== Conference Chair
 - Co-Chair, 2020 IEEE International Conference on Data Mining (ICDM) Workshop on Deep Learning for Cyber Threat Intelligence (DL-CTI) Workshop
 - Publication Co-Chair, 2020 IEEE Intelligence and Security Informatics
 
-=== Session Chair and Program Committee
+== Session Chair and Program Committee
 - International Conference on Information Systems, 2019 -- Present
 - INFORMS Workshop on Data Science, 2017 -- Present
 - Secure Knowledge Management Conference, 2017
 - INFORMS Annual Meeting, 2016
 
-=== Ad-hoc Reviewer (Journal)
+== Ad-hoc Reviewer (Journal)
 - Information Systems Research (ISR)
 - Journal of Management Information Systems (JMIS)
 - Management Information Systems Quarterly (MISQ)
@@ -20,5 +19,5 @@
 - International Journal of Electronic Commerce (IJEC)
 - Information Systems Frontiers (ISF)
 
-=== Ad-hoc Reviewer (Conference)
+== Ad-hoc Reviewer (Conference)
 Americas Conference on Information Systems (AMCIS), Hawaii International Conference on System Sciences (HICSS), International Conference on Information Systems (ICIS), Conference on Neural Information Processing Systems (NIPS), Pacific Asia Conference on Information Systems (PACIS), Conference on Uncertainty in Artificial Intelligence (UAI) 
