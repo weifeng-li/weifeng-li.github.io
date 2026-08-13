@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://weifeng-li.github.io/publications.html</loc>
-    <lastmod>2026-08-13T05:35:05.157Z</lastmod>
-  </url>
-  <url>
-    <loc>https://weifeng-li.github.io/grants.html</loc>
-    <lastmod>2026-08-13T05:35:05.156Z</lastmod>
-  </url>
-  <url>
     <loc>https://weifeng-li.github.io/service.html</loc>
-    <lastmod>2026-08-13T05:35:05.157Z</lastmod>
-  </url>
-  <url>
-    <loc>https://weifeng-li.github.io/index.html</loc>
-    <lastmod>2026-08-13T05:35:05.156Z</lastmod>
-  </url>
-  <url>
-    <loc>https://weifeng-li.github.io/teaching.html</loc>
-    <lastmod>2026-08-13T05:35:05.158Z</lastmod>
+    <lastmod>2026-08-13T05:44:26.775Z</lastmod>
   </url>
   <url>
     <loc>https://weifeng-li.github.io/vita.html</loc>
-    <lastmod>2026-08-13T05:35:05.158Z</lastmod>
+    <lastmod>2026-08-13T05:44:26.775Z</lastmod>
+  </url>
+  <url>
+    <loc>https://weifeng-li.github.io/grants.html</loc>
+    <lastmod>2026-08-13T05:44:26.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://weifeng-li.github.io/publications.html</loc>
+    <lastmod>2026-08-13T05:44:26.775Z</lastmod>
+  </url>
+  <url>
+    <loc>https://weifeng-li.github.io/teaching.html</loc>
+    <lastmod>2026-08-13T05:44:26.775Z</lastmod>
+  </url>
+  <url>
+    <loc>https://weifeng-li.github.io/index.html</loc>
+    <lastmod>2026-08-13T05:44:26.774Z</lastmod>
   </url>
 </urlset>
